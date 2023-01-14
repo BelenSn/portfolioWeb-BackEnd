@@ -3,7 +3,6 @@
 package com.belen.SpringBoot.controller;
 
 import com.belen.SpringBoot.model.Education;
-import com.belen.SpringBoot.service.EducationService;
 import com.belen.SpringBoot.service.IEducationService;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;

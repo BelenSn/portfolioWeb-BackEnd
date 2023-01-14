@@ -2,7 +2,6 @@
 package com.belen.SpringBoot.controller;
 
 import com.belen.SpringBoot.model.About;
-import com.belen.SpringBoot.model.Project;
 import org.springframework.web.bind.annotation.*;
 import com.belen.SpringBoot.service.IAboutService;
 import java.util.List;
